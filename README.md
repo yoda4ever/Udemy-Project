@@ -10,3 +10,8 @@ Last>> 26. Adding External Ponts.
 Last>> 27.Creating the Landing Page.
 28.Spliting the Page into Components. Next>>
 
+
+04-20-2019
+Last>> 28.Spliting the Page into Components.
+29.Adding Static Asset - The Background Image Next>>
+
