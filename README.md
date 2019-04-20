@@ -15,3 +15,9 @@ Last>> 27.Creating the Landing Page.
 Last>> 28.Spliting the Page into Components.
 29.Adding Static Asset - The Background Image Next>>
 
+
+04-20-2019
+Last>>29.Adding Static Asset - The Background Image.
+Last>>30.Adding Header Component.
+31.Vue Router vs Nuxt Router Next>>
+
