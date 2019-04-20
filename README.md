@@ -21,3 +21,8 @@ Last>>29.Adding Static Asset - The Background Image.
 Last>>30.Adding Header Component.
 31.Vue Router vs Nuxt Router Next>>
 
+
+04-20-2019
+Last>>31.Vue Router vs Nuxt Router
+Last>>32.Working on the Post Page.
+33.Creating an Admin Section Next>>

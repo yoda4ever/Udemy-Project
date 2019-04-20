@@ -1,39 +1,17 @@
 <template>
     <div class="home-page">
-          <section class="intro">
-            <h1>Get the latest tech news!</h1> 
-          </section>
-          <section class="feature-posts">
-
-            <PostPreview 
-              id="1"
-              thumbnail="https://cloud.oracle.com/opc/images/trends-hightech-4.jpg"
-              title="Hello There!"
-              previewText="This is my first post!"
-              />
-            <PostPreview 
-              id="2"
-              title="Hello There - the second time!"
-              thumbnail="https://cloud.oracle.com/opc/images/trends-hightech-4.jpg"
-              previewText="This is my second post!"
-              />
-            <PostPreview 
-              id="3"
-              title="Hi"
-              thumbnail="https://cloud.oracle.com/opc/images/trends-hightech-4.jpg"
-              previewText="This is my third post!"
-              />
-             
-
-          </section>
+      <section class="intro">
+          <h1>Get the latest tech news!</h1>
+      </section>
+       <PostList />
     </div>
 </template>
 <script>
-import PostPreview from '@/components/Posts/PostsPreview'
+import PostList from '@/components/Posts/PostList'
 
 export default {
   components:{
-    PostPreview 
+    PostList 
   }
 }
 </script>
@@ -63,6 +41,7 @@ export default {
   box-shadow: 3px 3px 3px black;
   box-sizing: border-box;
   border: 1px solid black;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
