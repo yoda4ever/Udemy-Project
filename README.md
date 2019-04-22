@@ -26,3 +26,9 @@ Last>>30.Adding Header Component.
 Last>>31.Vue Router vs Nuxt Router
 Last>>32.Working on the Post Page.
 33.Creating an Admin Section Next>>
+
+
+04-22-2019
+Last>>33.Creating an Admin Section
+Last>>34.Preparing the backend
+35.Improving the App Next>>
